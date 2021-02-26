@@ -18,4 +18,18 @@ a:hover {
 a:active {
   color:#30312f;
 }
+
+body {
+  background-color: Thistle;
+}
+
+body {
+  color: FloralWhite;
+}
+
+h1 {
+  color: DarkSlateGrey;
+}
+
+
 </style>
